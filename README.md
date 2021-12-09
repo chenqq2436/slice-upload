@@ -1,4 +1,4 @@
-# slice-upload
+# 大文件切片上传和断点续传
 
 ## Project setup
 ```
@@ -15,5 +15,14 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# server 后台服务
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run start
+```
